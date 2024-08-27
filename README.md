@@ -25,19 +25,19 @@ As Bangkok's tourism industry continues to thrive, Airbnb has emerged as a leadi
 ## **Files**
 
 ### **Data Analysis:**
-1_data_cleaning.ipynb
-2_analysis_geospatial.ipynb.gz
-3_analysis_seasonal_pricing.ipynb
-4_analysis_optimal_min_nights.ipynb
-5_analysis_desc_kw.ipynb
-6_overall.ipynb
+- 1_data_cleaning.ipynb
+- 2_analysis_geospatial.ipynb.gz
+- 3_analysis_seasonal_pricing.ipynb
+- 4_analysis_optimal_min_nights.ipynb
+- 5_analysis_desc_kw.ipynb
+- 6_overall.ipynb
 
 ### **Misc.**
-Airbnb Listings Bangkok Data Dictionary.pdf
-Airbnb Listings Bangkok.csv
-Airbnb Listings Bangkok_clean.csv
-airbnb.webp
-Bangkok-districts.geojson
+- Airbnb Listings Bangkok Data Dictionary.pdf
+- Airbnb Listings Bangkok.csv
+- Airbnb Listings Bangkok_clean.csv
+- airbnb.webp
+- Bangkok-districts.geojson
 
 Due to one of the file sizes exceeding 25 MB, I also uploaded the files to Google Drive, which you can access here: https://drive.google.com/drive/folders/1yV0NAo7QKKwGAt8KNsGvM2rfIcIXSXxt
 
